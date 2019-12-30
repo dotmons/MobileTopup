@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MobileTopup</string>
+
+    <string name="title_section1">Bank Top up</string>
+    <string name="title_section2">Data Load</string>
+    <string name="title_section3">Bank Transfer</string>
+    <string name="title_section4">Credit Transfer</string>
+    <string name="title_section5">Other Mobile Activities</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Mobile Topup</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_topup">Topup</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="banktype">Select your bank</string>
+    <string name="bundletxt">Select your bundle below:</string>
+    <string name="smsprovider">Select Service Provider</string>
+    <string name="smsbundle">Select Bundle Type</string>
+
+    <string-array name="banks_arrays">
+        <item>First Bank</item>
+        <item>Zenith Bank</item>
+        <item>Access Bank</item>
+        <item>Fidelity Bank</item>
+        <item>FCMB</item>
+        <item>Stanbic IBTC</item>
+        <item>Eco Bank</item>
+        <item>GT Bank</item>
+        <item>Sterling Bank</item>
+    </string-array>
+
+    <string-array name="serviceprovider">
+        <item>Etisalat</item>
+        <item>MTN</item>
+        <item>Globacom</item>
+        <item>Airtel</item>
+    </string-array>
+
+
+
+
+    <string-array name="servicebundle">
+        <item>50 MB</item>
+        <item>100 MB</item>
+        <item>1 GIGABYTE</item>
+        <item>2 GIGABYTE</item>
+        <item>3 GIGABYTE</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="gloday">
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="gloweek">
+    <item>200</item>
+    <item>400</item>
+    </string-array>
+
+
+</resources>
